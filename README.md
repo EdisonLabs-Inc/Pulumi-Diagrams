@@ -1,6 +1,6 @@
 # Pulumi-Diagrams
 
-I cloned Pulumi and exported the mermaid diagrams from CodeViz into this repo. 
+Mermaid diagrams from CodeViz for the Pulumi repo. These diagrams are nested and link to source code in the extension, but hope this is still useful for understanding.
 
 ### Level 1: System Architecture
 ```mermaid
